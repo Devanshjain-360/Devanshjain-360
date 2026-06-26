@@ -63,7 +63,7 @@ To become a skilled **Full Stack Developer** and build impactful applications us
 ## 📫 Connect With Me
 📍 India  
 📞 7398839688  
-📧 jdevansh360@gmail.com  
+📧 devanshjain2869@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-jain-3444073a9/)
 
